@@ -14,7 +14,7 @@ def puncte_de_control(n):
     a = []
 
     for index in range(n + 1):
-        print("puntcul ", index)
+        print("punctul ", index)
         x = float(input("x = "))
         y = float(input("y = "))
         a.append((x, y))
